@@ -1,4 +1,4 @@
-## Notion request
+## Request something new
 - Notion name:
 - Description:
 - Use case:
