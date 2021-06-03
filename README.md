@@ -6,4 +6,4 @@ You can access the Collection and (eventually) see others prints on [Prusaprinte
 The project just started, feel free to open an [issue](https://www.github.com/les-original/myo-notions/issues) or start a [discussion](https://www.github.com/les-original/myo-notions/discussion) if there's something you'd like to see.
 
 
-**A free and open product by [LES ORIGINAL tourist equipment](https://lesoriginal.square.site)**
+**A free and open product by [LES ORIGINAL tourist equipment](https://www.notion.so/marcsist/LES-ORIGINAL-bb2c56543cce43e49b850c0219119c40)**
