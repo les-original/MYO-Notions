@@ -2,7 +2,7 @@
 
 [MYO Notions](https://www.notion.so/lesoriginal/MYO-Notions-4cd3c49e37a248c3831b81215cc979fc) is an open-source series of print-friendly sewing notions for textile makers. Head over to the [wiki](https://www.github.com/les-original/myo-notions/wiki) to learn more.
 
-You can access the Collection and (eventually) see others prints on [Prusaprinters.org](https://www.prusaprinters.org/social/100188-les-original-tourist-equipment/collections/45345)
+You can access the Collection and (eventually) see others prints on [Prusaprinters.org](https://www.prusaprinters.org/prints/73004-myo-notions)
 The project just started, feel free to open an [issue](https://www.github.com/les-original/myo-notions/issues) or start a [discussion](https://www.github.com/les-original/myo-notions/discussion) if there's something you'd like to see.
 
 
